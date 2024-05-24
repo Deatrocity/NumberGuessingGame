@@ -12,7 +12,7 @@ public class GameFrame2 extends JFrame implements ActionListener{
     private JLabel mainLabel, winLabel, guessCountLabel, howCloseLabel, winCountLabel;
     private JButton submitButton, rematchButton;
     private JTextField guessInput;
-    //private int userInput;
+    //private int userInput;   Work in progress
     private GuessingGame game;
 
     GameFrame2 (int ceiling) {
