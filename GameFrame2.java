@@ -13,7 +13,7 @@ public class GameFrame2 extends JFrame implements ActionListener{
     private JButton submitButton, rematchButton;
     private JTextField guessInput;
     //private int userInput;   Work in progress
-    private GuessingGame game; // this is the feature branch
+    private GuessingGame game; // practice practice practice
 
     GameFrame2 (int ceiling) {
         // create GuessingGame instance
